@@ -1,5 +1,5 @@
 <?php
-namespace Dtc\HousingBundle;
+namespace Dtc\DtcHousingBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

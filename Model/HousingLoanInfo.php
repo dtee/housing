@@ -1,5 +1,5 @@
 <?php
-namespace Dtc\HousingBundle\Model;
+namespace Dtc\DtcHousingBundle\Model;
 
 class HousingLoanInfo
     extends LoanInfo

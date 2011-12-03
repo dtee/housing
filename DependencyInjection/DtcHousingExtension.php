@@ -1,5 +1,5 @@
 <?php
-namespace Dtc\HousingBundle\DependencyInjection;
+namespace Dtc\DtcHousingBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\DependencyInjection\Loader\XmlFileLoader;
@@ -19,6 +19,6 @@ class DtcHousingExtension
 
     public function getAlias()
     {
-        return 'dtc_grid';
+        return 'dtc_housing';
     }
 }
